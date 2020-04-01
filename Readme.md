@@ -38,3 +38,6 @@ We will now use this information to update the path variable.
 10. Open up 'command prompt' and type: 'python', then 'enter'.
 
 If everything has been done correctly, the output should tell you what version of Python you've got installed. If that coincides with the version you installed from python.org, the installation of Python has succeeded.
+
+### Other useful guides
+[Anaconda Step-By-Step](https://docs.anaconda.com/anaconda/install/windows/ "Anaconda Installation Guide")
