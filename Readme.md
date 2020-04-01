@@ -11,8 +11,8 @@ You have now successfully installed Python for Windows 10. With this installatio
 Next, Python should be added to your PATH.
 
 4. Open a new IDLE window (Press Windows key and search "IDLE").
-⋅⋅1. Should IDLE not be installed, you can search for 'Python' instead and enter the app which should be called 'Python 3.x (32-bit)'
-⋅⋅2. From there, keep following the steps below
+..1. Should IDLE not be installed, you can search for 'Python' instead and enter the app which should be called 'Python 3.x (32-bit)'
+..2. From there, keep following the steps below
 
 5. Type in the following:
 	```python
